@@ -1,0 +1,6 @@
+{
+  "check_interval": "30s",
+  "idle_timeout": "10m",
+  "stop_timeout_seconds": 30,
+  "dry_run": true
+}
